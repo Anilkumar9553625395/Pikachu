@@ -1,0 +1,11 @@
+#PokemonSprite{
+    display: block;
+    height: 700px;
+    width: 700px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
